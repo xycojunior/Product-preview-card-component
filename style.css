@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: bisque;
+  margin: 1 0 auto;
+  max-width: 1440px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.imagem img {
+  width: 220px;
+  border-radius: 10px 0 0 10px;
+}
+.container {
+  background-color: white;
+  max-width: 666px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+.card {
+  display: flex;
+  text-align: ;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
